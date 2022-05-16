@@ -1,5 +1,5 @@
 # Chart-race-app
-##How can ı run?
+## How can ı run?
 - open the terminal
 - npm install
 - npm start
